@@ -1,0 +1,305 @@
+fileFormatVersion: 2
+guid: 24117a347e1314977b8c6695becb07fa
+timeCreated: 1439578503
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: naves_tie:Layer1
+    100002: naves_tie:Layer2
+    100004: naves_tie:Layer3
+    100006: naves_tie:Layer4_(1)
+    100008: naves_tie:Layer4_(10)
+    100010: naves_tie:Layer4_(11)
+    100012: naves_tie:Layer4_(12)
+    100014: naves_tie:Layer4_(13)
+    100016: naves_tie:Layer4_(14)
+    100018: naves_tie:Layer4_(15)
+    100020: naves_tie:Layer4_(16)
+    100022: naves_tie:Layer4_(17)
+    100024: naves_tie:Layer4_(18)
+    100026: naves_tie:Layer4_(19)
+    100028: naves_tie:Layer4_(2)
+    100030: naves_tie:Layer4_(20)
+    100032: naves_tie:Layer4_(21)
+    100034: naves_tie:Layer4_(22)
+    100036: naves_tie:Layer4_(23)
+    100038: naves_tie:Layer4_(24)
+    100040: naves_tie:Layer4_(25)
+    100042: naves_tie:Layer4_(26)
+    100044: naves_tie:Layer4_(3)
+    100046: naves_tie:Layer4_(4)
+    100048: naves_tie:Layer4_(5)
+    100050: naves_tie:Layer4_(6)
+    100052: naves_tie:Layer4_(7)
+    100054: naves_tie:Layer4_(8)
+    100056: naves_tie:Layer4_(9)
+    100058: //RootNode
+    400000: naves_tie:Layer1
+    400002: naves_tie:Layer2
+    400004: naves_tie:Layer3
+    400006: naves_tie:Layer4_(1)
+    400008: naves_tie:Layer4_(10)
+    400010: naves_tie:Layer4_(11)
+    400012: naves_tie:Layer4_(12)
+    400014: naves_tie:Layer4_(13)
+    400016: naves_tie:Layer4_(14)
+    400018: naves_tie:Layer4_(15)
+    400020: naves_tie:Layer4_(16)
+    400022: naves_tie:Layer4_(17)
+    400024: naves_tie:Layer4_(18)
+    400026: naves_tie:Layer4_(19)
+    400028: naves_tie:Layer4_(2)
+    400030: naves_tie:Layer4_(20)
+    400032: naves_tie:Layer4_(21)
+    400034: naves_tie:Layer4_(22)
+    400036: naves_tie:Layer4_(23)
+    400038: naves_tie:Layer4_(24)
+    400040: naves_tie:Layer4_(25)
+    400042: naves_tie:Layer4_(26)
+    400044: naves_tie:Layer4_(3)
+    400046: naves_tie:Layer4_(4)
+    400048: naves_tie:Layer4_(5)
+    400050: naves_tie:Layer4_(6)
+    400052: naves_tie:Layer4_(7)
+    400054: naves_tie:Layer4_(8)
+    400056: naves_tie:Layer4_(9)
+    400058: //RootNode
+    2300000: naves_tie:Layer1
+    2300002: naves_tie:Layer2
+    2300004: naves_tie:Layer3
+    2300006: naves_tie:Layer4_(1)
+    2300008: naves_tie:Layer4_(10)
+    2300010: naves_tie:Layer4_(11)
+    2300012: naves_tie:Layer4_(12)
+    2300014: naves_tie:Layer4_(13)
+    2300016: naves_tie:Layer4_(14)
+    2300018: naves_tie:Layer4_(15)
+    2300020: naves_tie:Layer4_(16)
+    2300022: naves_tie:Layer4_(17)
+    2300024: naves_tie:Layer4_(18)
+    2300026: naves_tie:Layer4_(19)
+    2300028: naves_tie:Layer4_(2)
+    2300030: naves_tie:Layer4_(20)
+    2300032: naves_tie:Layer4_(21)
+    2300034: naves_tie:Layer4_(22)
+    2300036: naves_tie:Layer4_(23)
+    2300038: naves_tie:Layer4_(24)
+    2300040: naves_tie:Layer4_(25)
+    2300042: naves_tie:Layer4_(26)
+    2300044: naves_tie:Layer4_(3)
+    2300046: naves_tie:Layer4_(4)
+    2300048: naves_tie:Layer4_(5)
+    2300050: naves_tie:Layer4_(6)
+    2300052: naves_tie:Layer4_(7)
+    2300054: naves_tie:Layer4_(8)
+    2300056: naves_tie:Layer4_(9)
+    3300000: naves_tie:Layer1
+    3300002: naves_tie:Layer2
+    3300004: naves_tie:Layer3
+    3300006: naves_tie:Layer4_(1)
+    3300008: naves_tie:Layer4_(10)
+    3300010: naves_tie:Layer4_(11)
+    3300012: naves_tie:Layer4_(12)
+    3300014: naves_tie:Layer4_(13)
+    3300016: naves_tie:Layer4_(14)
+    3300018: naves_tie:Layer4_(15)
+    3300020: naves_tie:Layer4_(16)
+    3300022: naves_tie:Layer4_(17)
+    3300024: naves_tie:Layer4_(18)
+    3300026: naves_tie:Layer4_(19)
+    3300028: naves_tie:Layer4_(2)
+    3300030: naves_tie:Layer4_(20)
+    3300032: naves_tie:Layer4_(21)
+    3300034: naves_tie:Layer4_(22)
+    3300036: naves_tie:Layer4_(23)
+    3300038: naves_tie:Layer4_(24)
+    3300040: naves_tie:Layer4_(25)
+    3300042: naves_tie:Layer4_(26)
+    3300044: naves_tie:Layer4_(3)
+    3300046: naves_tie:Layer4_(4)
+    3300048: naves_tie:Layer4_(5)
+    3300050: naves_tie:Layer4_(6)
+    3300052: naves_tie:Layer4_(7)
+    3300054: naves_tie:Layer4_(8)
+    3300056: naves_tie:Layer4_(9)
+    4300000: naves_tie:Layer1
+    4300002: naves_tie:Layer2
+    4300004: naves_tie:Layer3
+    4300006: naves_tie:Layer4_(1)
+    4300008: naves_tie:Layer4_(2)
+    4300010: naves_tie:Layer4_(3)
+    4300012: naves_tie:Layer4_(4)
+    4300014: naves_tie:Layer4_(5)
+    4300016: naves_tie:Layer4_(6)
+    4300018: naves_tie:Layer4_(7)
+    4300020: naves_tie:Layer4_(8)
+    4300022: naves_tie:Layer4_(9)
+    4300024: naves_tie:Layer4_(10)
+    4300026: naves_tie:Layer4_(11)
+    4300028: naves_tie:Layer4_(12)
+    4300030: naves_tie:Layer4_(13)
+    4300032: naves_tie:Layer4_(14)
+    4300034: naves_tie:Layer4_(15)
+    4300036: naves_tie:Layer4_(16)
+    4300038: naves_tie:Layer4_(17)
+    4300040: naves_tie:Layer4_(18)
+    4300042: naves_tie:Layer4_(19)
+    4300044: naves_tie:Layer4_(20)
+    4300046: naves_tie:Layer4_(21)
+    4300048: naves_tie:Layer4_(22)
+    4300050: naves_tie:Layer4_(23)
+    4300052: naves_tie:Layer4_(24)
+    4300054: naves_tie:Layer4_(25)
+    4300056: naves_tie:Layer4_(26)
+    7400000: Base Stack
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Base Stack
+      takeName: Base Stack
+      firstFrame: 0
+      lastFrame: 540
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: naves_tie:Layer1
+        weight: 1
+      - path: naves_tie:Layer2
+        weight: 1
+      - path: naves_tie:Layer3
+        weight: 1
+      - path: naves_tie:Layer4_(1)
+        weight: 1
+      - path: naves_tie:Layer4_(2)
+        weight: 1
+      - path: naves_tie:Layer4_(3)
+        weight: 1
+      - path: naves_tie:Layer4_(4)
+        weight: 1
+      - path: naves_tie:Layer4_(5)
+        weight: 1
+      - path: naves_tie:Layer4_(6)
+        weight: 1
+      - path: naves_tie:Layer4_(7)
+        weight: 1
+      - path: naves_tie:Layer4_(8)
+        weight: 1
+      - path: naves_tie:Layer4_(9)
+        weight: 1
+      - path: naves_tie:Layer4_(10)
+        weight: 1
+      - path: naves_tie:Layer4_(11)
+        weight: 1
+      - path: naves_tie:Layer4_(12)
+        weight: 1
+      - path: naves_tie:Layer4_(13)
+        weight: 1
+      - path: naves_tie:Layer4_(14)
+        weight: 1
+      - path: naves_tie:Layer4_(15)
+        weight: 1
+      - path: naves_tie:Layer4_(16)
+        weight: 1
+      - path: naves_tie:Layer4_(17)
+        weight: 1
+      - path: naves_tie:Layer4_(18)
+        weight: 1
+      - path: naves_tie:Layer4_(19)
+        weight: 1
+      - path: naves_tie:Layer4_(20)
+        weight: 1
+      - path: naves_tie:Layer4_(21)
+        weight: 1
+      - path: naves_tie:Layer4_(22)
+        weight: 1
+      - path: naves_tie:Layer4_(23)
+        weight: 1
+      - path: naves_tie:Layer4_(24)
+        weight: 1
+      - path: naves_tie:Layer4_(25)
+        weight: 1
+      - path: naves_tie:Layer4_(26)
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

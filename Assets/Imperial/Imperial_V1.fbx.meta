@@ -1,0 +1,268 @@
+fileFormatVersion: 2
+guid: 3774f2cd2323f4443b97b7450d10db9b
+timeCreated: 1439581454
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Body
+    100002: Ctrl_ImperialShuttle
+    100004: Ctrl_ImperialShuttle1
+    100006: Ctrl_ImperialShuttle2
+    100008: Ctrl_TieAdvanced
+    100010: Ctrl_TieAdvanced1
+    100012: Ctrl_TieAdvanced1 1
+    100014: Ctrl_TieAdvanced2
+    100016: Ctrl_TieAdvanced2 1
+    100018: Ctrl_TieAdvanced3
+    100020: Grup_TieFighter
+    100022: Grup_TieFighter 1
+    100024: //RootNode
+    100026: LeftWing
+    100028: Mesh_ImperialShuttle
+    100030: RightWing
+    100032: TieFighter:Body
+    100034: TieFighter:LeftWing
+    100036: TieFighter:RightWing
+    400000: Body
+    400002: Ctrl_ImperialShuttle
+    400004: Ctrl_ImperialShuttle1
+    400006: Ctrl_ImperialShuttle2
+    400008: Ctrl_TieAdvanced
+    400010: Ctrl_TieAdvanced1
+    400012: Ctrl_TieAdvanced1 1
+    400014: Ctrl_TieAdvanced2
+    400016: Ctrl_TieAdvanced2 1
+    400018: Ctrl_TieAdvanced3
+    400020: Grup_TieFighter
+    400022: Grup_TieFighter 1
+    400024: //RootNode
+    400026: LeftWing
+    400028: Mesh_ImperialShuttle
+    400030: RightWing
+    400032: TieFighter:Body
+    400034: TieFighter:LeftWing
+    400036: TieFighter:RightWing
+    2300000: Body
+    2300002: LeftWing
+    2300004: Mesh_ImperialShuttle
+    2300006: RightWing
+    2300008: TieFighter:Body
+    2300010: TieFighter:LeftWing
+    2300012: TieFighter:RightWing
+    3300000: Body
+    3300002: LeftWing
+    3300004: Mesh_ImperialShuttle
+    3300006: RightWing
+    3300008: TieFighter:Body
+    3300010: TieFighter:LeftWing
+    3300012: TieFighter:RightWing
+    4300000: Mesh_ImperialShuttle
+    4300002: TieFighter:LeftWing
+    4300004: TieFighter:RightWing
+    4300006: TieFighter:Body
+    4300008: LeftWing
+    4300010: RightWing
+    4300012: Body
+    7400000: loop
+    7400002: entrada
+    9500000: //RootNode
+    11100000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 2
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: entrada
+      takeName: Take 001
+      firstFrame: 6
+      lastFrame: 275
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Ctrl_ImperialShuttle
+        weight: 1
+      - path: Ctrl_ImperialShuttle/Ctrl_ImperialShuttle1
+        weight: 1
+      - path: Ctrl_ImperialShuttle/Ctrl_ImperialShuttle1/Ctrl_ImperialShuttle2
+        weight: 1
+      - path: Ctrl_ImperialShuttle/Ctrl_ImperialShuttle1/Ctrl_ImperialShuttle2/Mesh_ImperialShuttle
+        weight: 1
+      - path: Ctrl_TieAdvanced
+        weight: 1
+      - path: Ctrl_TieAdvanced/Ctrl_TieAdvanced1
+        weight: 1
+      - path: Ctrl_TieAdvanced/Ctrl_TieAdvanced1/Ctrl_TieAdvanced2
+        weight: 1
+      - path: Ctrl_TieAdvanced/Ctrl_TieAdvanced1/Ctrl_TieAdvanced2/Grup_TieFighter
+        weight: 1
+      - path: Ctrl_TieAdvanced/Ctrl_TieAdvanced1/Ctrl_TieAdvanced2/Grup_TieFighter/TieFighter:Body
+        weight: 1
+      - path: Ctrl_TieAdvanced/Ctrl_TieAdvanced1/Ctrl_TieAdvanced2/Grup_TieFighter/TieFighter:LeftWing
+        weight: 1
+      - path: Ctrl_TieAdvanced/Ctrl_TieAdvanced1/Ctrl_TieAdvanced2/Grup_TieFighter/TieFighter:RightWing
+        weight: 1
+      - path: Ctrl_TieAdvanced3
+        weight: 1
+      - path: Ctrl_TieAdvanced3/Ctrl_TieAdvanced1 1
+        weight: 1
+      - path: Ctrl_TieAdvanced3/Ctrl_TieAdvanced1 1/Ctrl_TieAdvanced2 1
+        weight: 1
+      - path: Ctrl_TieAdvanced3/Ctrl_TieAdvanced1 1/Ctrl_TieAdvanced2 1/Grup_TieFighter
+          1
+        weight: 1
+      - path: Ctrl_TieAdvanced3/Ctrl_TieAdvanced1 1/Ctrl_TieAdvanced2 1/Grup_TieFighter
+          1/Body
+        weight: 1
+      - path: Ctrl_TieAdvanced3/Ctrl_TieAdvanced1 1/Ctrl_TieAdvanced2 1/Grup_TieFighter
+          1/LeftWing
+        weight: 1
+      - path: Ctrl_TieAdvanced3/Ctrl_TieAdvanced1 1/Ctrl_TieAdvanced2 1/Grup_TieFighter
+          1/RightWing
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    - serializedVersion: 16
+      name: loop
+      takeName: Take 001
+      firstFrame: 276
+      lastFrame: 800
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Ctrl_ImperialShuttle
+        weight: 1
+      - path: Ctrl_ImperialShuttle/Ctrl_ImperialShuttle1
+        weight: 1
+      - path: Ctrl_ImperialShuttle/Ctrl_ImperialShuttle1/Ctrl_ImperialShuttle2
+        weight: 1
+      - path: Ctrl_ImperialShuttle/Ctrl_ImperialShuttle1/Ctrl_ImperialShuttle2/Mesh_ImperialShuttle
+        weight: 1
+      - path: Ctrl_TieAdvanced
+        weight: 1
+      - path: Ctrl_TieAdvanced/Ctrl_TieAdvanced1
+        weight: 1
+      - path: Ctrl_TieAdvanced/Ctrl_TieAdvanced1/Ctrl_TieAdvanced2
+        weight: 1
+      - path: Ctrl_TieAdvanced/Ctrl_TieAdvanced1/Ctrl_TieAdvanced2/Grup_TieFighter
+        weight: 1
+      - path: Ctrl_TieAdvanced/Ctrl_TieAdvanced1/Ctrl_TieAdvanced2/Grup_TieFighter/TieFighter:Body
+        weight: 1
+      - path: Ctrl_TieAdvanced/Ctrl_TieAdvanced1/Ctrl_TieAdvanced2/Grup_TieFighter/TieFighter:LeftWing
+        weight: 1
+      - path: Ctrl_TieAdvanced/Ctrl_TieAdvanced1/Ctrl_TieAdvanced2/Grup_TieFighter/TieFighter:RightWing
+        weight: 1
+      - path: Ctrl_TieAdvanced3
+        weight: 1
+      - path: Ctrl_TieAdvanced3/Ctrl_TieAdvanced1 1
+        weight: 1
+      - path: Ctrl_TieAdvanced3/Ctrl_TieAdvanced1 1/Ctrl_TieAdvanced2 1
+        weight: 1
+      - path: Ctrl_TieAdvanced3/Ctrl_TieAdvanced1 1/Ctrl_TieAdvanced2 1/Grup_TieFighter
+          1
+        weight: 1
+      - path: Ctrl_TieAdvanced3/Ctrl_TieAdvanced1 1/Ctrl_TieAdvanced2 1/Grup_TieFighter
+          1/Body
+        weight: 1
+      - path: Ctrl_TieAdvanced3/Ctrl_TieAdvanced1 1/Ctrl_TieAdvanced2 1/Grup_TieFighter
+          1/LeftWing
+        weight: 1
+      - path: Ctrl_TieAdvanced3/Ctrl_TieAdvanced1 1/Ctrl_TieAdvanced2 1/Grup_TieFighter
+          1/RightWing
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
